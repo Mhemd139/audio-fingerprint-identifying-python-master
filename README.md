@@ -30,8 +30,3 @@ To use the scripts provided in this repository for audio fingerprint identificat
 
 - [LibROSA](https://librosa.org/) - A Python package for music and audio analysis
 - [NumPy](https://numpy.org/) - Fundamental package for scientific computing with Python
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
